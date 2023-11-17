@@ -1,0 +1,89 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Suleman Ali
+ID:      169044667
+Email:   alix4667@mylaurier.ca
+Version: "2023-03-22"
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter a sentence: StopAndSmellTheRoses.
+Stop and smell the roses.
+
+
+
+Enter a sentence: WilfridLaurierUniversity
+Wilfrid laurier university
+
+
+
+
+Enter a sentence: MondayTuesdayWednesday
+Monday tuesday wednesday
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter a word to pluralize: city
+cities
+
+
+
+Enter a word to pluralize: student
+students
+
+
+
+Enter a word to pluralize: peach
+peaches
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter first word: abc
+Enter second word: ABC
+
+
+Enter first word: running
+Enter second word: jumping
+ing
+
+
+Enter first word: coat
+Enter second word: float
+oat
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter isbn:978-3-12148410--0
+False
+
+
+Enter isbn:978-3-16-148410-0
+True
+
+
+Enter isbn:978-3-16-148410-03
+False
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+['camel', 'leopard', 'dog', 'giraffe', 'elephant']
+True
+
+
+
+['monday', 'tuesday', 'wednesday', 'thursday', 'friday']
+False
+
+
+['file', 'edit', 'navigate']
+False
+
+-------------------------------------------------------
