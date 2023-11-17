@@ -1,0 +1,49 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Suleman Ali
+ID:      169044667
+Email:   alix4667@mylaurier.ca
+Version: "2023-01-20"
+--------------------------------- ----------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+The book title is,"Learn Python in 21 Days".
+What's mine is mine, and what's yours is mine.
+"You have enemies?Good. That means you've stood up something, sometime in your life."Winston Churchill
+Three things cannot be long hidden:
+the sun,
+the moon,
+and the truth.
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter your favourite food:pizza
+Enter your favourite TV show:Star Trek
+I like to eat pizza while watching Star Trek
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Length in inches:68
+Length in m: 1.7271999999999998
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Cost of 1 pizza slice:1.95
+Number of pizza slices:3
+Total cost of 3 pizza slices: $ 5.85
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Principle:5000
+Interest:5.5
+Number of years:10
+Number of times interest compounded per year:12
+Balance: $ 8655.382085330153
+
+-------------------------------------------------------
