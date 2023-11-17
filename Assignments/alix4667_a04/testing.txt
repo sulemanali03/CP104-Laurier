@@ -1,0 +1,96 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Suleman Ali
+ID:      169044667
+Email:   alix4667@mylaurier.ca
+Version: "2023-03-03"
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+
+Please enter a number between 1 and 7: 1
+Sunday
+
+
+Please enter a number between 1 and 7: 3
+Tuesday
+
+Please enter a number between 1 and 7: 7
+Saturday
+
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter AQI: 256
+Very Unhealthy
+
+
+Enter AQI: 500
+Hazardous
+
+
+Enter AQI: 120
+Unhealthy for Sensitive Groups
+
+
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter the first number: -8
+Enter the second number: 12
+Enter the third number: 20
+240
+
+
+Enter the first number: 5
+Enter the second number: 20
+Enter the third number: 50
+1000
+
+
+Enter the first number: 15
+Enter the second number: 29
+Enter the third number: 56
+1624
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter first primary colour: green
+Enter second primary colour: red
+yellow
+
+
+Enter first primary colour: red
+Enter second primary colour: blue
+fuchsia
+
+
+Enter first primary colour: red
+Enter second primary colour: red
+red
+
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter a number: 21
+Yee Ha
+
+
+Enter a number: -44
+Nada
+
+
+Enter a number: 14
+Ha
+
+
+
+-------------------------------------------------------
