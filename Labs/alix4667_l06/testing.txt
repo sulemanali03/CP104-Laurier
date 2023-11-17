@@ -1,0 +1,174 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Suleman Ali
+ID:      169044667
+Email:   alix4667@mylaurier.ca
+Version: "2023-02-18"
+-------------------------------------------------------
+"""
+t01
+
+-------------------------------------------------------
+
+This program sums and returns the total of all even numbers from 2 to num (inclusive)
+
+Enter the value of num: 123
+
+3782
+
+-------------------------------------------------------
+
+t02
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+
+t03
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+
+t04
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+
+t05
+
+-------------------------------------------------------
+
+This Program prints a rectangle of height and width characters using a specific character.
+
+Enter the number of characters high: 3
+
+Enter the number of characters wide: 12
+
+Enter the character to draw with: #
+
+############
+
+############
+
+############
+
+-------------------------------------------------------
+
+t06
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+
+t07
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+
+t08
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+
+t09
+
+-------------------------------------------------------
+
+Prints n verses of the song '99 Bottles of Beer on the Wall'
+
+Number of verses of the song to print: 3
+
+3 bottles of beer on the wall, 3 bottles of beer.
+
+Take one down, pass it around, 2 bottles of beer on the wall.
+
+2 bottles of beer on the wall, 2 bottles of beer.
+
+Take one down, pass it around, 1 bottle of beer on the wall.
+
+1 bottle of beer on the wall, 1 bottle of beer.
+
+Take one down, pass it around, no more bottles of beer on the wall!
+
+-------------------------------------------------------
+
+t10
+
+-------------------------------------------------------
+
+Calculates and prints calories burnt on a treadmill over a given time range.
+
+calories burnt per minute: 3.9
+
+start time in minutes: 5
+
+end time in minutes: 30
+
+increment in minutes: 5
+
+Calories burned after 5 minutes: 19.5
+
+Calories burned after 10 minutes: 39.0
+
+Calories burned after 15 minutes: 58.5
+
+Calories burned after 20 minutes: 78.0
+
+Calories burned after 25 minutes: 97.5
+
+Calories burned after 30 minutes: 117.0
+
+-------------------------------------------------------
+
+t11
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+
+t12
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+
+t13
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+
+t14
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+
+t15
+
+-------------------------------------------------------
+
+Asks a user to enter n values, then calculates and returns the minimum, maximum, total, and average of those values.
+
+number of values to process: 5
+
+First value: 1
+
+Next value: 2
+
+Next value: -3.4
+
+Next value: 4
+
+Next value: 5.3
+
+(-3.4, 5.3, 8.9, 1.78)
+
+-------------------------------------------------------
+
