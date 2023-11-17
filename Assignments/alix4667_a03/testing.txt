@@ -1,0 +1,111 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Suleman Ali
+ID:      169044667
+Email:   alix4667@mylaurier.ca
+Version: "2023-02-17"
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Square footage:100000
+100000.0 -> 2.295684113865932
+
+
+Square footage:50000
+50000.0 -> 1.147842056932966
+
+
+Square footage:25000
+25000.0 -> 0.573921028466483
+
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Width (m):20
+Length (m):50
+Speed (m^2/minute):4
+lawn_mowning(width, length, speed) -> 250.0
+
+
+Width (m):10
+Length (m):25
+Speed (m^2/minute):2
+lawn_mowning(width, length, speed) -> 125.0
+
+
+Width (m):100
+Length (m):40
+Speed (m^2/minute):8
+lawn_mowning(width, length, speed) -> 500.0
+
+
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter a date in the format MMDDYYYY:10251962
+date_extraction(date)->1962, 10, 25
+
+
+Enter a date in the format MMDDYYYY:12132005
+date_extraction(date)->2005, 12, 13
+
+Enter a date in the format MMDDYYYY:12112022
+date_extraction(date)->2022, 12, 11
+
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Numerator 1:1
+Denominator 1:2
+Numerator 2:3
+Denominator 2:4
+fraction_multiplier(number1, denom1, number2, denom2))->3, 8, 0.375
+
+
+
+Numerator 1:5
+Denominator 1:2
+Numerator 2:5
+Denominator 2:2
+fraction_multiplier(number1, denom1, number2, denom2))->25, 4, 6.25
+
+
+Numerator 1:4
+Denominator 1:2
+Numerator 2:1
+Denominator 2:8
+fraction_multiplier(number1, denom1, number2, denom2))->4, 16, 0.25
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+
+
+708
++ 571
+Your answer: 1390
+Your answer:1390
+Expected answer: 1279
+
+
+259
++ 278
+Your answer: 590
+Your answer:590
+Expected answer: 537
+
+
+507
++ 20
+Your answer: 560
+Your answer:560
+Expected answer: 527
+
+-------------------------------------------------------
